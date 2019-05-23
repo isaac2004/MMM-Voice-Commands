@@ -39,7 +39,7 @@ After that, to add modules, please follow the [Hello-Lucy documentation](https:/
 * **MMM-FMI**         (Finds your iPhone. Gives location and distance. Beeps iPhone)
 * **MMM-Fortune**     (A fortune cookie on your mirror)
 * **MMM-Gas**         (Gas Price module by @cowboysdude)
-* **MMM-GoogleMapsTraffic**         Custom Extension of the well-known GoogleMapsTrafficModule
+* **MMM-GoogleMapsTraffic**         [My Custom Extension of the well-known GoogleMapsTrafficModule](https://github.com/isaac2004/MMM-GoogleMapsTraffic)
 * **MMM-ISS**         (Know when the International Space Station can be seen at your location)
 * **MMM-JEOPARDY**    (The widely popular gameshow on your mirror)
 * **MMM-LICE**        (Live International Currency Exchange)
